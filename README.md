@@ -1,3 +1,4 @@
+This is the combined content that resolves the conflict.
 <<<<<<< HEAD
 This is the content from the main branch.
 =======
