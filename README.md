@@ -1,3 +1,5 @@
+## New Section
+This is a new section added to demonstrate the creation of a pull request.
 Welcome to the main branch!
 Welcome to the feature branch!
 <<<<<<< HEAD
