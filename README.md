@@ -1,3 +1,10 @@
+Welcome to the main branch!
+Welcome to the feature branch!
+<<<<<<< HEAD
+Welcome to the main branch!
+=======
+Welcome to the feature branch!
+>>>>>>> feature/new-feature
 This is the combined content that resolves the conflict.
 <<<<<<< HEAD
 This is the content from the main branch.
